@@ -27,8 +27,8 @@ To get started with this project, follow these steps:
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/your-username/youtube-sentiment-engagement-analysis.git
-    cd youtube-sentiment-engagement-analysis
+    git clone https://github.com/Nithya-15/youtube-sentiment-engagement-analysis.git
+    cd youtube-sentiment-analysis
     ```
 
 2. Install the required packages:
